@@ -1,11 +1,13 @@
-<div align="center">
+# MAC Digital Agency
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+## Hosting on Vercel
 
-  <h1>Built with AI Studio</h2>
+1. **Push to GitHub:** Upload these files to a GitHub repository.
+2. **Import to Vercel:** Go to Vercel and import the repository.
+3. **Framework Preset:** Vercel should automatically detect **Vite**. If not, select it manually.
+4. **Deploy:** Click Deploy.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Local Development
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
-
-</div>
+1. `npm install`
+2. `npm run dev`
